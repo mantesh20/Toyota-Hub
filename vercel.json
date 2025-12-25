@@ -1,5 +1,10 @@
 {
   "version": 2,
+  "git": {
+    "deploymentEnabled": {
+      "toyota-hub": true
+    }
+  },
   "builds": [
     {
       "src": "frontend/package.json",
